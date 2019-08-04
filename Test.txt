@@ -1,1 +1,3 @@
 This is my text file for my TestGit Repository
+
+This is my text file for my TestMyGit Repository // Modified for the second Commit
